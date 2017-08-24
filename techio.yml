@@ -1,5 +1,5 @@
-title: Simple Python template
+title: Simple Node.js template
 
 plan:
-  - title: Python Snippet
+  - title: Node.js Snippet
     statement: statement.md
